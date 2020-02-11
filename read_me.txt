@@ -1,3 +1,4 @@
 assignment day 2 branching git minor changes to files in html assignment branch
-minor changes to files in html assignment branch dfdfddfdfdfffffffffffffffffff
-line 3 changes
+
+minor changes to files in html assignment branch dfdfddfdfdfhello world
+
