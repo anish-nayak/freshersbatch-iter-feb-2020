@@ -23,6 +23,15 @@ h1 {
 
 */
 
+/*
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+*/
+
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
 
